@@ -119,37 +119,37 @@ Training and Placement Cell has consistently excelled in providing outstanding p
 ![student1](Images/placed_students_2025/1749659806347.jpg)
 
 \
-![student1](Images/placed_students_2023/1749659634530.jpg)
+![student1](Images/placed_students_2025/1749659634530.jpg)
 
 \
-![student1](Images/placed_students_2023/1749659498565.jpg)
+![student1](Images/placed_students_2025/1749659498565.jpg)
 
 \
-![student1](Images/placed_students_2023/1749063170082.jpg)
+![student1](Images/placed_students_2025/1749063170082.jpg)
 
 \
-![student1](Images/placed_students_2023/1749062673780.jpg)
+![student1](Images/placed_students_2025/1749062673780.jpg)
 
 \
-![student1](Images/placed_students_2023/1749062409664.jpg)
+![student1](Images/placed_students_2025/1749062409664.jpg)
 
 \
-![student1](Images/placed_students_2023/1748943713876.jpg)
+![student1](Images/placed_students_2025/1748943713876.jpg)
 
 \
-![student1](Images/placed_students_2023/1748943342258.jpg)
+![student1](Images/placed_students_2025/1748943342258.jpg)
 
 \
-![student1](Images/placed_students_2023/1748172133765.jpg)
+![student1](Images/placed_students_2025/1748172133765.jpg)
 
 \
-![student1](Images/placed_students_2023/1747878281901.jpg)
+![student1](Images/placed_students_2025/1747878281901.jpg)
 
 \
-![student1](Images/placed_students_2023/1747878080521.jpg)
+![student1](Images/placed_students_2025/1747878080521.jpg)
 
 \
-![student1](Images/placed_students_2023/1747407978443.jpg)
+![student1](Images/placed_students_2025/1747407978443.jpg)
 
 \
-![student1](Images/placed_students_2023/1747405107362.jpg)
+![student1](Images/placed_students_2025/1747405107362.jpg)
