@@ -169,7 +169,7 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 | Deepak Fasteners                                 | 2.16                 |
 | Rama Steel Forge Ludhiana                        | 2.16                 |
 
-## [Placement Highlights 2024](Placement_highlights_2023.md)
+## [Placement Highlights 2025](Placement_highlights_2023.md)
 
 ---
 
