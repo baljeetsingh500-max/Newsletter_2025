@@ -116,3 +116,25 @@
 
 \
 ![student1](Images/placed_students_2025/1747405107362.jpg)
+
+lkn
+\
+![student1](Images/placed_students_2025/1761889032567.jpg)
+
+\
+![student1](Images/placed_students_2025/1761889032880.jpg)
+
+\
+![student1](Images/placed_students_2025/1761889035183.jpg)
+
+\
+![student1](Images/placed_students_2025/1766597916172.jpg)
+
+\
+![student1](Images/placed_students_2025/1763905010333.jpg)
+
+\
+![student1](Images/placed_students_2025/1765211202466.jpg)
+
+\
+![student1](Images/placed_students_2025/1763107277162.jpg)
