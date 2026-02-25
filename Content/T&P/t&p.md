@@ -46,6 +46,24 @@ In addition to corporate internships, students also gained prestigious research 
 
 ---
 
+## 📊 Placement Snapshot 2024–2025
+
+<div align="center">
+
+| Metric | Details |
+|------|---------|
+| Highest Package Offered | ₹12 LPA (Trident Group) |
+| Top Recruiters | Trident Group, Josh Technology Group, TCS, Argusoft, Stylumia, UltraTech Cement, Larsen & Toubro |
+| Premium Offers | ₹9 LPA (TCS Prime), ₹11.3 LPA (Josh Technology Group) |
+| Major IT Recruiters | TCS, Cognizant, Capgemini, Infosys, Argusoft, Stylumia |
+| Core Sector Recruiters | UltraTech Cement, SML ISUZU Ltd., Larsen & Toubro Ltd., Mahindra & Mahindra Ltd. |
+| Internship Stipend Range | ₹2,000 – ₹30,000 per month |
+| Research Internship Institutes | IIT Gandhinagar, IIIT Guwahati, NIT Meghalaya, IIIT Una, NITTTR Chandigarh |
+
+</div>
+
+---
+
 ## Major Recruiters
 
 \
@@ -179,11 +197,11 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 
 ## Events
 
-- [Events held in collaboration with Mahindra & Mahindra](Events_MM.md)
+<!-- - [Events held in collaboration with Mahindra & Mahindra](Events_MM.md) -->
 
 - [Events held in collaboration with Infosys](Events_Axis_Bank.md)
 
-- [Highlights of Events – 2025](Events_2025.md)
+- [Industry Engagement and Recruitment Drives – 2025](Events_2025.md)
 - [Current Placement Activities](https://www.tnpgndec.com/)
 - <a href="https://www.linkedin.com/company/tnpgndec/posts/?feedView=all" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width:20px; height:20px;">
