@@ -259,15 +259,14 @@ Dr. Munish Rattan
 -Prof. Shivmanmeet Singh (ISF Secretary)
 
 -----------------------------------------
-### Gusto Knack
-
+### Hands on experience on Soldering and Desoldering
 ![Gusto Knack](Images/GKposter.jpg)
 
 ![Gusto Knack](Images/GK1.jpg)
 
 ![Gusto Knack](Images/GK2.jpg)
 
-- <div align="jutify"> This event was organized in the Anand Utsav’s Techn-o-Mela on the 16th March 2023. In this event; a team of two or three members were made. There were questions which had to be answered as a team in the first round. Furthermore; the qualifying teams had to split up and the members individually had to play another round of quiz and ones answering the fastest were awarded first, second and third positions respectively.</div>
+- <div align="jutify"> In alignment with this vision, ISF hosted a knowledge-based event on October 11, 2024, featuring a lecture by Er. Shivmanmeet Singh, a distinguished professor from the Electronics and Communication Engineering Department. The session focused on the fundamentals of soldering and desoldering, providing students with comprehensive insights into these essential electronic assembly techniques. During the event, the professor delivered an in-depth lecture covering the principles, tools, and best practices of soldering and desoldering. Following the theoretical session, students had the opportunity to apply their learning through a hands-on demonstration, further reinforcing their understanding of the concepts. This event served as a valuable platform for students to gain practical exposure and enhance their technical proficiency in electronics manufacturing and repair.</div>
 
 -----------------------------------------
 ### Workshop on Arduino and Soldering
