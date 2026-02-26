@@ -8,3 +8,16 @@
 ![Glimpses](Images/glimpses/IMG-20241212-WA0042.jpeg)
 \
 ![Glimpses](Images/glimpses/IMG-20241212-WA0024.jpg)
+
+<div align="center">
+<table>
+<tr>
+  <td><img src="Images/glimpses/8.jpeg" width="450"></td>
+  <td><img src="Images/glimpses/9.jpeg" width="450"></td>
+</tr>
+<tr>
+  <td><img src="Images/glimpses/10.jpeg" width="450"></td>
+  <td><img src="Images/glimpses/11.jpeg" width="450"></td>
+</tr>
+</table>
+</div>
