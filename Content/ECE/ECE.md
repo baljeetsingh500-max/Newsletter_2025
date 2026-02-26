@@ -163,31 +163,30 @@ Dr. Munish Rattan
 
 ## Publications  (Conferences)
 
-- Chanpreet Kaur, **Harminder Kaur** "Green Computing – A Review", International Conference on Sustainable Developments in Computational Optimization and Intelligent Systems (ICSDCOIS-2025).
+[1] **Kunwar Partap Singh**, Rajan Vohra, “Comparative Analysis of Electrical Conductance through Guanine and Thymine Based Molecular Devices,” *6th International Conference on Intelligent Circuits and Systems (ICICS-2024)*, Lovely Professional University, Phagwara, 25–26 October 2024, International.
 
-**Gurjot Kaur Walia, Navneet Kaur, Chahat Jain** "Bridging Tradition and Technology: Integrating Indian Knowledge Systems with Artificial Intelligence", International Conference on Indian Knowledge System: From Glorious Past to Bright Future.
+[2] **Narwant Singh Grewal, Preeti Pannu**, “Frequency Reconfigurable Antenna Design Using PSO,” *International Conference on Next-Generation Communication and Computing (NGCCOM-2024)*, ABES Engineering College, Ghaziabad, 5–6 December 2024, International.
 
-**Narwant Singh Grewal** "Frequency Reconfigurable Antenna Design Using PSO", International Conference on Next-Generation Communication and Computing (NGCCOM-2024).
+[3] **Preeti Pannu, Narwant Singh Grewal, Gurpurneet Kaur**, “Design of Dually Notched Compact 4-Port UWB MIMO Antenna,” *8th International Conference on Micro-Electronics and Telecommunication Engineering*, SRM Institute of Science & Technology, Ghaziabad, 6 December 2024, International.
 
-Ramneet Kaur, **Preeti Pannu, Gurjot Kaur** "Performance Analysis of Radio over FSO for Advanced Modulation Formats", 6th International Conference on Recent Innovations in Science & Technology.
+[4] **Preeti Pannu, Manpreet Kaur, Narwant Singh Grewal**, “Frequency Reconfigurable Antenna Design Using PSO,” *International Conference on Next-Generation Communication and Computing (NGCCOM-2024)*, ABES College, Ghaziabad, 5 December 2024, International.
 
-**Preeti Pannu, Narwant Singh Grewal** and **Gurpurneet Kaur** "Design of Dually Notched Compact 4-Port UWB MIMO Antenna", 8th International Conference on Micro-Electronics and Telecommunication Engineering.
+[5] Arnav Gautam, **Harleen Kaur**, Piyush, “Real Time Weed Detection Using YOLOv8: A Lightweight Vision System for Smart Farming,” *6th International Conference on Data Science and Applications*, Jaipur, 16–18 July 2024, International.
 
-**Kunwar Partap Singh**, Rajan Vohra, "Comparative Analysis of Electrical Conductance through Guanine and Thymine Based Molecular Devices", 6th International Conference on Intelligent Circuits and Systems (ICICS-2024).
+[6] Amandeep Kaur Kang, Shubham Sharma, **Gurjot Kaur Walia**, Manisha, “Application of Artificial Intelligence in Strategic Restaurant Marketing: A Review,” *ISTE National Annual Convention and Yuva Kaushal Utsav 2025*, Lamrin Tech Skill University, Punjab, 13–14 February 2025, International.
 
-Arnav Gautam, **Harleen Kaur**, Piyush, "Real Time Weed Detection using YOLOv8: A Lightweight Vision System for Smart Farming", 6th International Conference on Data Science and Applications.
+[7] Chanpreet Kaur, **Harminder Kaur D/o Avtar Singh**, “Green Computing – A Review,” *International Conference on Sustainable Developments in Computational Optimization and Intelligent Systems (ICSDCOIS-2025)*, Bhai Gurdas Institute of Engineering & Technology, Sangrur, 24–25 April 2025, International.
 
-**Gurpurneet Kaur**, Ramdevi, **Munish Rattan, Narwant Singh, Preeti Pannu** G. Aggarwal, G.P.K. Sohi, "Tunable HfxTi1-xO2 Dielectrics for Low-Power and High-Performance GAA Nanowire MO", Nanoelectronics and VLSI Design.
+[8] **Gurjot Kaur Walia, Navneet Kaur, Chahat Jain**, “Bridging Tradition and Technology: Integrating Indian Knowledge Systems with Artificial Intelligence,” *International Conference on Indian Knowledge System: From Glorious Past to Bright Future*, Maharaja Agrasen University, Baddi, in collaboration with I.K. Gujral Punjab Technical University and Baba Mastnath University, 4–5 April 2025, International.
 
-**Gurleen Kaur, Gurpurneet Kaur**, Baljeet Kaur, "Emerging Techniques in Underwater Communication: A Comprehensive Review", International Conference on Electronics, AI and Computing (EAIC-2025).
+[9] Ramneet Kaur, **Preeti Pannu, Gurjot Kaur**, “Performance Analysis of Radio over FSO for Advanced Modulation Formats,” *6th International Conference on Recent Innovations in Science & Technology*, Holy Grace Academy of Engineering, Mala, Thrissar, Kerala, 27 April 2025, International.
 
-**Preeti Pannu, Narwant Singh Grewal** and **Gurpurneet Kaur**, "Design of Dually Notched Compact 4-Port UWB MIMO Antenna", 8th International Conference on Micro-Electronics and Telecommunication Engineering.
+[10] **Gurpurneet Kaur**, Ram Devi, **Munish Rattan, Narwant Singh, Preeti Pannu**, G. Aggarwal, G.P.K. Sohi, “Tunable HfxTi1-xO2 Dielectrics for Low-Power and High-Performance GAA Nanowire MO,” *Nanoelectronics and VLSI Design*, NIT Jalandhar, 5–7 June 2025, International.
 
-**Preeti Pannu**, Manpreet Kaur, **Narwant Singh Grewal**, "Frequency Reconfigurable Antenna Design Using PSO", International Conference on Next-Generation Communication and Computing (NGCCOM-2024).
+[11] **Gurleen Kaur, Gurpurneet Kaur, Baljeet Kaur**, “Emerging Techniques in Underwater Communication: A Comprehensive Review,” *International Conference on Electronics, AI and Computing (EAIC-2025)*, NIT Jalandhar, 5–7 June 2025, International.
 
-Amandeep Kaur Kang, Shubham Sharma, **Gurjot Kaur Walia**, Manisha, "Application of Artificial Intelligence in Strategic Restaurant Marketing: A Review", ISTE National Annual Convention and Yuva Kaushal Utsav 2025.
+[12] **Gurjot Kaur Walia, Navneet Kaur, Chahat Jain**, “Bridging Tradition and Technology: Integrating Indian Knowledge,” *International Conference on Indian Knowledge System: From Glorious Past to Bright Future*, Maharaja Agrasen University, I.K. Gujral Punjab Technical University and Baba Mastnath University, 4–5 April 2025, International.
 
-**Gurjot Kaur Walia, Navneet Kaur, Chahat Jain** "Bridging Tradition and Technology: Integrating Indian Knowledge", International Conference on Indian Knowledge System: From Glorious Past to Bright Future.
 
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
