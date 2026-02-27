@@ -272,29 +272,7 @@ Dr. Munish Rattan
 - <div align="jutify"> The PLC workshop usually begins with an introductory session, where participants are briefed on the importance of PLCs in modern industrial processes on 14 Aug 2024. The session outlines how PLCs are used to automate various industrial operations, ranging from simple machine functions to complex processes involving multiple sensors and actuators. Participants are introduced to the basic architecture of PLCs, includingthe central processing unit (CPU), memory, input/output (I/O) modules, and communication interfaces.</div>
 
 -----------------------------------------
-### Hands on experience on Soldering and Desoldering
 
-![Arduino and Soldering](Images/AS2.jpg)
-
-- <div align="jutify"> In alignment with this vision, ISF hosted a knowledge-based event on October 11, 2024, featuring a lecture by Er. Shivmanmeet Singh, a distinguished professor from the Electronics and Communication Engineering Department. The session focused on the fundamentals of soldering and desoldering, providing students with comprehensive insights into these essential electronic assembly techniques. During the event, the professor delivered an in-depth lecture covering the principles, tools, and best practices of soldering and desoldering. Following the theoretical session, students had the opportunity to apply their learning through a hands-on demonstration, further reinforcing their understanding of the concepts. This event served as a valuable platform for students to gain practical exposure and enhance their technical proficiency in electronics manufacturing and repair.</div>
-
------------------------------------------
-### Digital Artistry
-
-![Advisor Session (Wireless Communication)](Images/WC2.jpg)
-
-- <div align="jutify">ISF hosted a Fun-Techno event titled "Digital Artistry" on October 14, 2024. During this event, students were tasked with creating a
-digital poster on a chosen topic within a specified timeframe.</div>
-
------------------------------------------
-
-### Two days workshop on Digital Electronics and VHDL
-
-![Advisor Session (Wireless Communication)](Images/WC2.jpg)
-
-- <div align="jutify">ISF successfully hosted a two-day workshop on “Digital Electronics and VHDL” on 28th and 29th October 2024. The workshop offered in-depth coverage of key topics such as combinational circuit design and its real-time applications, signal conversion between analog and digital signals, and programming and design using VHDL</div>
-
------------------------------------------
 ### Technova
 
 ![Advisor Session (Wireless Communication)](Images/WC2.jpg)
@@ -354,7 +332,7 @@ showcase their ideas, strengthen their communication skills, and receive constru
 
 ![Advisor Session (Machine)](Images/SD2.jpeg)
 
-- <div align="jutify">This event was organized on 11th October 2024.This event was led and supervised by Prof. Shivmanmeet Singh. The event was coordinated by Savnoor Channi(Convenor ISF) and Dhairya Sobti(Co-Convenor ISF).Sir first talked about Soldering and Desoldering. Then a hands on training was done and all the participants did also practice soldering and desoldering.</div>
+- <div align="jutify"> In alignment with this vision, ISF hosted a knowledge-based event on October 11, 2024, featuring a lecture by Er. Shivmanmeet Singh, a distinguished professor from the Electronics and Communication Engineering Department. The session focused on the fundamentals of soldering and desoldering, providing students with comprehensive insights into these essential electronic assembly techniques. During the event, the professor delivered an in-depth lecture covering the principles, tools, and best practices of soldering and desoldering. Following the theoretical session, students had the opportunity to apply their learning through a hands-on demonstration, further reinforcing their understanding of the concepts. This event served as a valuable platform for students to gain practical exposure and enhance their technical proficiency in electronics manufacturing and repair.</div>
 ----------------------------------------------
 ### Digital Artistry
 
