@@ -59,7 +59,7 @@ Co-Coordinator: Prof. Kunwarpartap Singh
 
 -----------------------------------------
 
-### GNE's APEX 2024: Project demonstration and display by ECE students
+### GNE's APEX 2024: Project demonstration and display by ECE students on 25, Oct 2025
 
 ![Students](Images/apd1.jpg)
 ![Students](Images/apd2.jpeg)
@@ -74,6 +74,13 @@ Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 ![Students](Images/wwww.jpg)
 
 -----------------------------------------
+
+### Visit to Bharat Electronics on 30, June 2025
+
+![Students](Images/bi.jpg)
+
+-----------------------------------------
+
 
 ## Faculty Achievements  
 
