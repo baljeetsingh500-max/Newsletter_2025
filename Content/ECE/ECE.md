@@ -351,9 +351,9 @@ Dr. Munish Rattan
 -----------------------------------------
 ### Workshop on Mobile chipset repairing
 
-![Emerging Technologies](Images/ETposter.png)
+![Mobile chipset repairing](Images/cs1.JPG)
 
-![Emerging Technologies](Images/ET1.jpeg)
+![Mobile chipset repairing](Images/cs2.JPG)
 
 - <div align="jutify"> The IETE Students’ Forum (ISF) at Guru Nanak Dev Engineering College, Ludhiana,hosted a practical and informative workshop on Mobile Chipset Repairing and Software Automation on 11th April 2025.The session was expertly conducted by Mr. Harjot and Mr Abishek, specialists in mobile chipset repair and embedded systems. He provided an in-depth demonstration of chip-level repair techniques, showcasing the use of professional equipment such as digital microscopes, and diagnostic software. A significant portion of the workshop focused on the Apple A13 Bionic chipset, where participants examined its architecture, identified critical components on the motherboard, and explored rework methods commonly applied in modern smartphone servicing. In addition, the workshop covered practical aspects of soldering and desoldering components on the logic board, along with guidance on how iPhone servicing is professionally carried out, including common troubleshooting workflows and repair practices followed in industry labs.</div>
 -----------------------------------------
