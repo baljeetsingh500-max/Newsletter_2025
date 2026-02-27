@@ -27,3 +27,12 @@
 </tr>
 </table>
 </div>
+
+\
+![Glimpses](Images/glimpses/16.jpeg)
+\
+![Glimpses](Images/glimpses/17.jpeg)
+\
+![Glimpses](Images/glimpses/20.jpeg)
+\
+![Glimpses](Images/glimpses/21.jpeg)
