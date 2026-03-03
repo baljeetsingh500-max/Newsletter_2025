@@ -4,10 +4,6 @@
 
 ![SDT](Images/JGS.jpg)
 
-## Message from HoD's Desk  
-
-![SDT](Images/JGS.jpg)
-
 <p align=justify>
 It is a matter of pride to present the latest edition of our online “Newsletter,” which highlights the remarkable achievements of our faculty, students, and staff in the Civil Engineering Department. The dedication and efforts of the Editorial Team in compiling this edition are highly commendable.
 </p>
@@ -31,18 +27,18 @@ I hope readers of this newsletter find the insights and achievements shared here
 Dr. Jagbir Singh 
 HoD, Civil Engineering Department  
 
-# Faculty Achievements  
+## Faculty Achievements  
 
-## Awards & Recognitions  
+### Awards & Recognitions  
 
 - **Dr. Harvinder Singh** received the *Faculty Excellence Award 2024* from the College Alumni Association.  
 - **Prof. Manvinder Kingra** was awarded a *Commonwealth Scholarship* worth ₹50 lakh to pursue higher studies in the UK.
 
-# Sponsored Project / Grants   
+### Sponsored Project / Grants   
 
 - **Dr. Harvinder Singh** and **Dr. Yuvraj Singh** have been awarded an industry-sponsored project worth ₹3.54 lakh for the project titled "Utilization of Iron Dust as a Supplementary Material in Concrete and Brick Production."
 
-## Ph.D. Compelted/Guided
+### Ph.D. Compelted/Guided
 
 - **Dr. Yuvraj Singh** completed Ph.D. titled *“Performance of Steel Fibre Reinforced Concrete Beams Containing Conventional Reinforcement Under Corrosive Environment”* under the guidance of Dr. Harvinder Singh.
 - **Dr. H.S. Rai & Dr. Jagbir Singh's** research scholar **Satinder Kaur** completed her PhD on *Interoperable Structural Model from Architectural Model* (January 2025).  
@@ -50,6 +46,19 @@ HoD, Civil Engineering Department
 - **Dr. Harvinder Singh's** research scholar **Ravpreet Kaur** completed her PhD on *Flexural Response of Steel Fiber Reinforced Concrete Long Beams*.
 - **Dr. Harvinder Singh's** research scholar **Yuvraj Singh** completed his Ph.D. on *“Performance of Steel Fibre Reinforced Concrete Beams Containing Conventional Reinforcement Under Corrosive Environment”.
 
+### Expert Talks Delivered  
+
+- **Dr. Puneet Pal Singh Cheema** Delivered Expert Talk on World Environment Day organized by IE, Ludhiana Chapter (02/04/2025).
+
+- **Charnjeet Singh** Delivered multiple technical sessions on Concrete Evaluation, Lab Testing, Geotechnical Investigation & NDT in collaboration with TATA TISCON and DDMA.
+
+- **Amandeep Singh** delivered a talk on *“Scope of Soil Mechanics Problem in Civil Engineering”* at IKG PTU Mohali Campus (Oct 1, 2024).
+
+- **Dr. Yuvraj Singh** delivered expert talks on:  
+  - “From Richter to Ruin: Understanding Earthquakes and Structural Failures” at IKG PTU Mohali Campus (Aug 22, 2025)  
+  - “Sustainability and Technology Nexus: Pathways to a Resilient Future” at IKG PTU Mohali Campus (Aug 22, 2025)  
+  - “Understanding Structural Vibrations: From Fundamentals to Earthquake Response” at IKG PTU Mohali Campus (Sept 19, 2025)  
+  - “From Carbon Footprints to Carbon Neutrality: The Engineer’s Role in Climate Action” at IKG PTU Mohali Campus (Sept 19, 2025)  
 
 ## Publications  
 
@@ -65,7 +74,7 @@ HoD, Civil Engineering Department
   
 - **Pardeep Singh.** A review of slope stability assessment techniques for landslide mitigation. Paper ID 275.
 
-# Events Organized  
+## Events Organized  
 
 | Sr. No. | Name of Event | Organising Institute | Date(s) |
 |:------- |:------------- |:------------------- |:------- |
@@ -77,7 +86,7 @@ HoD, Civil Engineering Department
 | 6 | International FDP on Regenerative Design – Transcending Sustainability | GNDEC | Dec 2–6, 2025 |
 | 7 | Activities at Civil Engineering Stall during APEX 2025 | GNDEC | October 30, 2025 |
 
-# Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
+## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 | Sr. No. | Name of Faculty | Name of Event | Duration | Date(s) | Organizing Institute |
 |:------- |:--------------- |:------------- |:-------- |:------- |:-------------------- |
@@ -88,36 +97,20 @@ HoD, Civil Engineering Department
 | 5 | Multiple Faculty | Regenerative Design – Transcending Sustainability | 5 days | 2-6 December, 2024 | GNDEC Ludhiana |
 | 6 | Sukhwinder Singh | Workshop on High Rise Structures | 2 days | 12-13 July, 2025 | NPTEL |
 
-# Expert Talks Delivered  
-
-- **Dr. Puneet Pal Singh Cheema:** Delivered Expert Talk on World Environment Day organized by IE, Ludhiana Chapter (02/04/2025).
-
-- **Charnjeet Singh:** Delivered multiple technical sessions on Concrete Evaluation, Lab Testing, Geotechnical Investigation & NDT in collaboration with TATA TISCON and DDMA.
-
-- **Amandeep Singh:** Delivered talk on *“Scope of Soil Mechanics Problem in Civil Engineering”* at IKG PTU Mohali Campus (Oct 1, 2024).
-
-- **Dr. Yuvraj Singh:**  
-  - “From Richter to Ruin: Understanding Earthquakes and Structural Failures” (Aug 22, 2025)  
-  - “Sustainability and Technology Nexus: Pathways to a Resilient Future” (Aug 22, 2025)  
-  - “Understanding Structural Vibrations: From Fundamentals to Earthquake Response” (Sept 19, 2025)  
-  - “From Carbon Footprints to Carbon Neutrality: The Engineer’s Role in Climate Action” (Sept 19, 2025)  
-
-
-# Student Achievements  
+## Student Achievements  
 
 1. **Pardeep Kumar** (Mentee: Varinder Singh) – Best Student Award (Research), Foundation Day (8 April 2025).  
 2. **Pardeep Kumar** – Selected as Lieutenant (Army Technical Section).  
 
-# Outreach / Community Activities  
+## Outreach / Community Activities  
 
 - Faculty involvement in Sustainable Construction Awareness Sessions for contractors and field professionals in association with MRH Associates.  
 
-# Personal Milestones  
+## Consultancy Cell
 
-- Consultancy Cell achieved highest revenue of ₹545 Lakh.  
-- Mentor reflections on student academic excellence.  
-
-# Photo Gallery  
+- Consultancy Cell achieved the highest revenue of ₹545 Lakh.  
+ 
+## Photo Gallery  
 
 ## Regenerative Design: Transcending Sustainability  
 
