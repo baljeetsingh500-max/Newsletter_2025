@@ -23,11 +23,11 @@ Member of Ludhiana Smart City Limited Technical Sub Committee
 
 ## FACULTY AND STAFF MEMBERS
 
-## We are a team of dedicated and hardworking professionals at GNDEC SOA, committed to delivering knowledge with excellence. Through our collective expertise and continuous efforts, we go beyond conventional teaching practices to ensure meaningful learning, practical exposure, and academic growth. Our focus remains on nurturing competence, innovation, and professionalism by investing extra time and effort in mentoring, guidance, and skill development.
+### We are a team of dedicated and hardworking professionals at GNDEC SOA, committed to delivering knowledge with excellence. Through our collective expertise and continuous efforts, we go beyond conventional teaching practices to ensure meaningful learning, practical exposure, and academic growth. Our focus remains on nurturing competence, innovation, and professionalism by investing extra time and effort in mentoring, guidance, and skill development.
 
 ## Left To Right
 
-## Ar. Vivek Sehgal (Associate Professor), Ar. Sukhmanjit Singh (Associate Professor), Ar. Baljeet Singh (Assistant professor), ar. Akanksha Sharma (Head of GNDEC- SOA), TPr. (Ar.) Shivani Garg (Assistant Professor), Ar. Navjot Kaur (Associate Professor), Ar. Harsimranjeet Kaur (Assistant Professor), ID. Ramanpreet Kaur (Assistant professor), Ar. Moksha Bhatia (Assistant Professor)
+### Ar. Vivek Sehgal (Associate Professor), Ar. Sukhmanjit Singh (Associate Professor), Ar. Baljeet Singh (Assistant professor), ar. Akanksha Sharma (Head of GNDEC- SOA), TPr. (Ar.) Shivani Garg (Assistant Professor), Ar. Navjot Kaur (Associate Professor), Ar. Harsimranjeet Kaur (Assistant Professor), ID. Ramanpreet Kaur (Assistant professor), Ar. Moksha Bhatia (Assistant Professor)
 
 ![](Images/image_3.jpg)
 
@@ -122,8 +122,8 @@ The students are currently in Ahmedabad to attend the national-level jury schedu
 GNDEC School of Architecture is proud to receive an Appreciation Certificate from NASA India for its active participation and contribution in the events.
 
 Additionally, our USEC Taranbir Singh was honoured with a medal by NASA India in recognition of his dedication, contribution, and efforts in making the unit shine and bring pride to our college at the First General Body Meeting (FGBM) and National India Research Conference (NIRC) held at Vivekananda Global University, Jaipur.
-
 ![](Images/image_21.jpg)
+
 ![](Images/image_22.jpg)
 
 ## Sports- Tennis Team
@@ -131,6 +131,39 @@ Additionally, our USEC Taranbir Singh was honoured with a medal by NASA India in
 GNDEC School of Architecture is glad to share that our Tennis team (Amanpreet, Dhriti, and Gaurvi) secured 3rd position in the Inter-College tournament held on 13th October at PAU, Ludhiana.
 
 ![](Images/image_23.jpg)
+
+## RESEARCH PUBLICATIONS AND PRESENTATIONS
+
+**Ar. Sukhmanjit Singh (Associate Professor)**
+*Publications:*
+- Published research paper on the topic ‘Women Safety in Urban Areas: A Comprehensive Review of Fear and Crime in Built Environment’ in Institute of Town Planners India (ITPI) (UGC care list journal) with ISSN: 0537-9679, Volume 22, Number: 4, Edition: October- December 2025. Journal Homepage: https://journals.itpi.org.in/
+- Published research paper on the topic ‘Role of Technology in Higher Education’ in International Journal of Research and Analytical Reviews (IJRAR) with E-ISSN: 2348-1269 and P-ISSN: 2349-5138. Volume 6, Issue 2, May 2019. Date of publication: 08-05-2019. Published paper URL: http://ijrar.org/viewfull.php?&p_id=IJRAR19M1275
+- Published research paper on the topic ‘Managing Urban Safety Through Design: A Gender- Responsive Decision Framework for Built Environment Performance' in Degres Journal with ISSN: 0376-8163 Paper Id: DEJ/1939. Volume 10, Issue 12, December 2025.
+
+*Papers Presented in Conferences and Seminars:*
+- Presented research paper on the topic ‘Perception of Women About Safety Around Urban Voids and Rethinking Potential Planning Solutions’ in International conference at the International Conference of Psychology and Allied Sciences (ICPAS) Held at London, United Kingdom on September 25 & 26, 2023.
+- Presented research paper as second author on the topic ‘Developing Global Building Energy Efficiency Regulations for Net Zero Energy and Zero Carbon Buildings’ in International conference on Trends in Architecture and Construction (ICTAC-2017) at Chandigarh University, Ghauran, Mohali on September 18, 2017.
+- Presented research paper on the topic ‘Lack of space for vendors in neighborhoods: A case study from Amritsar city’ in a one day national seminar on Multidisciplinary Advanced Research in North-Eastern India (MARNEI-2022) organized by Internal Quality Assurance Cell (IQAC)- Waikhom Mani Girls' College, Thoubal, Okram, Manipur.
+- Presented research paper on the topic ‘The Impact of Social Media on Education’ in International conference on Recent Advances in Science, Education & Technology-ICRASET-2020 at Sydney, Australia on March 5 & 6, 2020.
+- Presented research paper on the topic ‘Addressal of public issues and rethinking public spaces through governance’ in a two-day national seminar on Act local go Global: A step towards Sustainable Future organized by CSH & Guru Ram Das School of Planning Guru Nanak Dev University, Amritsar on August 25 & 26, 2023.
+- Presented research paper on the topic ‘The Continuation of Momentous Cities’ at the National Conclave on Planning Sustainability and Ecological Restoration organised by Department of Urban and Regional Planning, Gautam Buddha University, Greater Noida in collaboration with Institute of Town Planners India, New Delhi (ITPI) Held at Gautam Buddha University, Greater Noida on November 22 & 23, 2024.
+- Presented research paper as second author on the topic ‘Emerging Approaches to future cities: A Pathway for Smart and Sustainable Development’ at the National Conclave on Planning Sustainability and Ecological Restoration organised by Department of Urban and Regional Planning, Gautam Buddha University, Greater Noida in collaboration with Institute of Town Planners India, New Delhi (ITPI) Held at Gautam Buddha University, Greater Noida on November 22 & 23, 2024.
+- Presented research paper on the topic ‘Understanding The Compactness of Cities Concerning Public Perception‘ in a two-day national seminar on Nature based Solutions for Sustainable Habitat jointly organized by Guru Ram Das School of Planning, Guru Nanak Dev University, Amritsar and Association of Punjab Geographers, India on November 08 & 09, 2024.
+
+**Ar. Navjot Kaur (Associate Professor)**
+*Publications:*
+- Research Paper on “Green Buildings Are the Future of Society” (2023), Paper Registration ID: ERCICTEL2303105.
+
+*Papers Presented in Conferences and Seminars:*
+- Presented research paper: "STRATEGIES FOR REDEVELOPMENT OF SECTOR 17, CHANDIGARH".
+
+**Ar. Baljeet Singh (Assistant Professor)**
+*Publications:*
+- Published research paper: "Planning Implications of Highway Corridors on the Levels of development and settlement pattern. (Case study of Haryana state)" - ISSN 2349-5162 © 2022 JETIR September 2022, Volume 9, Issue 9.
+
+*Papers Presented in Conferences and Seminars:*
+- Co-Author and presented research paper on the topic ‘The Continuation of Momentous Cities’ at the National Conclave on Planning Sustainability and Ecological Restoration organised by Department of Urban and Regional Planning, Gautam Buddha University, Greater Noida in collaboration with Institute of Town Planners India, New Delhi (ITPI) Held at Gautam Buddha University, Greater Noida on November 22 & 23, 2024.
+- Second Author and presented research paper on the topic ‘Emerging Approaches to future cities: A Pathway for Smart and Sustainable Development’ at the National Conclave on Planning Sustainability and Ecological Restoration organised by Department of Urban and Regional Planning, Gautam Buddha University, Greater Noida in collaboration with Institute of Town Planners India, New Delhi (ITPI) Held at Gautam Buddha University, Greater Noida on November 22 & 23, 2024.
 
 ## SEMINARS AND CONFERENCES
 
